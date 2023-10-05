@@ -1,0 +1,7 @@
+alias kss=". $HOME/scripts/set-shoot.sh"
+alias ksg=". $HOME/scripts/set-garden.sh"
+alias kgl="kind export kubeconfig --name gardener-local"
+alias gstr="source $HOME/scripts/start-garden.sh"
+alias gstp="source $HOME/scripts/stop-garden.sh"
+alias dashon="source $HOME/scripts/start-dashboard.sh"
+alias dashoff="source $HOME/scripts/stop-dashboard.sh"
